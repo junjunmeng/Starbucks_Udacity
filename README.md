@@ -26,12 +26,21 @@ We used unsupervised clustering methods to cluster customers by the similarity o
 view rate(% of customers who viewed the offer) and conversion rate (% of customers who complete an offer after viewed it) were used to assess how applicable those segments to Starbucks business. 
 
 
-## Data exploration
+## Data exploration and visualization
+
+After cleaning this dataset, I explored the demographic distribution of customers, male customer is about 25% more compared to female. And the average income of male customer is also higher than female. The age of customer is between 40-70, and the biggest group is around 60 years old. 
+
+![image](https://user-images.githubusercontent.com/26633604/142346198-c0859573-5457-451f-9973-0f8e6a6d1bd9.png)
+
+Income and the spending had some position relationship for a cluster of customer. 
+
+![image](https://user-images.githubusercontent.com/26633604/142346953-35611229-25df-4bc5-86b3-459369ea8230.png)
 
 
+![image](https://user-images.githubusercontent.com/26633604/142346242-eda77c60-8778-46be-8ae4-de4331d24b28.png)
 
-## Data visualization
 
+According to funnel analysis for three types of offers (BOGO, Discount and informational), BOGO got the best view rate, but Discount made the best completion rate. 
 
 
 ## Unsupervised clustering
