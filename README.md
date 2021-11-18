@@ -29,8 +29,6 @@ view rate(% of customers who viewed the offer) and conversion rate (% of custome
 
 After cleaning this dataset, I explored the demographic distribution of customers, male customer is about 25% more compared to female. And the average income of male customer is also higher than female. The age of customer is between 40-70, and the biggest group is around 60 years old. 
 
-![image](https://user-images.githubusercontent.com/26633604/142346198-c0859573-5457-451f-9973-0f8e6a6d1bd9.png)
-
 Income and the spending had some position relationship for a cluster of customer. 
 
 ![image](https://user-images.githubusercontent.com/26633604/142346953-35611229-25df-4bc5-86b3-459369ea8230.png)
