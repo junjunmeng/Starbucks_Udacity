@@ -1,6 +1,6 @@
 # Starbucks Offers: How to design offers strategy to increase revenue by customer segmentation
 
-[Medium](https://medium.com/@jjunmeng/how-to-sending-offers-to-the-target-customer-to-increase-revenue-8668218e7774)
+The blog could find in [Medium](https://medium.com/@jjunmeng/how-to-sending-offers-to-the-target-customer-to-increase-revenue-8668218e7774)
 
 ## Table of Contents
 1. [Project purpose](#motivation)
