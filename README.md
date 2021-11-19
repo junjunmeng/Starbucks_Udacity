@@ -36,6 +36,8 @@ Income and the spending had some position relationship for a cluster of customer
 ![image](https://user-images.githubusercontent.com/26633604/142346953-35611229-25df-4bc5-86b3-459369ea8230.png)
 
 
+## Metrics 
+I uses view rate and completion rate to compares the performance of different offers. 
 ![image](https://user-images.githubusercontent.com/26633604/142346242-eda77c60-8778-46be-8ae4-de4331d24b28.png)
 
 
