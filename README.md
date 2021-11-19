@@ -1,5 +1,7 @@
 # Starbucks Offers: How to design offers strategy to increase revenue by customer segmentation
 
+[Medium](https://medium.com/@jjunmeng/how-to-sending-offers-to-the-target-customer-to-increase-revenue-8668218e7774)
+
 ## Table of Contents
 1. [Project purpose](#motivation)
 2. [Dataset preview](#data)
@@ -54,4 +56,3 @@ Segment 3 (green): Age: 55, average income: ~68K, Male > Female, total completio
 
 segment 4 (Purple): Age: 50, average income ~57K, Male >> Female, total completion rate: 0.16. BOGO_cr (0.09), discount_cr(0.17), recency ~ 15, lowest, most joined in 2017-2018, and the Y2Y still increase, channel: email > mobile > web > social
 
-[Medium](https://medium.com/@jjunmeng/how-to-sending-offers-to-the-target-customer-to-increase-revenue-8668218e7774)
